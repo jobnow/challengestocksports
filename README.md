@@ -18,7 +18,7 @@ Link to the figma board : https://www.figma.com/file/FYSpCVhWfiJa5WmAqBNGxA/Chal
 But as always, if you have any other project that you want be based on, please do it.
 
 ## Submitting the solution
-Fork this repository to a repository on your own github account and add the solution there. Show good branching and committing strategy, open a pull request with the solution to the branch **react-native**, and add Lucas as a reviewer (@bolacha).  It should be clear how to build and run the project locally.
+Fork this repository to a repository on your own github account and add the solution there. Show good branching and committing strategy, open a pull request with the solution to the branch **react-native**, and add Gabriela as a reviewer (@gabrieladias99).  It should be clear how to build and run the project locally.
 
 ## Bonus (don't need to be in the below specific order)
 
